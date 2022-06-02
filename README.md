@@ -13,7 +13,30 @@
 
 - Decidi me candidatar a bolsa de Fullstack Developer para dar um "UP" nas minhas skills de Backend. Através desse Bootcamp serei capaz de criar programas Back-end de Alto Nivel utilizando Java, criar aplicações mais complexas através de um banco de dados. Além de explorar mais ainda as minhas skills em Front - End através da criação de aplicações SPA no Angular.
 
-#### ⚙️ Tecnologias utilizadas:
+
+
+#### ⚙️ Módulo II - HTML/CSS3/JS - Projeto do curso posicionamento elementos com Flexbox em CSS.
+
+- HTML
+- CSS
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/79487813/171546453-1ff44f22-1a82-4977-aab0-c09c209da205.gif" alt="Photo Card" width="95%"/>
+</p>
+
+#### ⚙️ Módulo II - Introdução ao JavaScript - Projeto do curso criando um contador.
+
+- HTML 
+- CSS
+- JavaScript
+
+<p align="center">
+<img src="https://user-images.githubusercontent.com/79487813/171753448-ea5eeb08-1f02-4c3b-a050-62e25b099405.gif" alt="Photo Card" width="95%"/>
+</p>
+
+
+
+#### ⚙️ Tecnologias utilizadas no Bootcamp:
 <p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
 
 #### 👩🏾‍💻 Projetos desenvolvidos:
